@@ -1,0 +1,4 @@
+.idea/
+/barcode_images/*
+*.json
+*.pyc
